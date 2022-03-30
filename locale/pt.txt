@@ -12,11 +12,6 @@ LinkBehaviour_C76A968F_C9FE_6DD6_41CB_0A14551C1AE5.source = https://www.instagra
 LinkBehaviour_33124650_D98C_83D5_41C8_2D6C7C3CCD3A.source = https://www.youtube.com/channel/UC6QqT5HapLoK3JbXOzjSsrA
 LinkBehaviour_C76A868F_C9FE_6DD6_41E3_4823A3C359B4.source = https://www.youtube.com/channel/UC6QqT5HapLoK3JbXOzjSsrA
 
-## Hotspot
-
-### URL
-FramePanoramaOverlay_2033E5F8_DAF3_80D5_41C2_563A11BA4D1C.url = https://meet.google.com/uuc-mvpa-hxh
-
 ## Media
 
 ### Audio
